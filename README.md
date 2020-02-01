@@ -7,9 +7,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [Planned updates](#planned_updates)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Planned Features](#planned_features)
+* [Status](#status)
 
 
 ## Technologies
